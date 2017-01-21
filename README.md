@@ -4,4 +4,4 @@
 
 This is a unit test example using mocha. It also integrate with Travis-CI.
 
-## Blog: [http://larry850806.github.io/2016/10/02/mocha-travis-ci](http://larry850806.github.io/2016/10/02/mocha-travis-ci/)
+## Blog Post: [http://larry850806.github.io/2016/10/02/mocha-travis-ci](http://larry850806.github.io/2016/10/02/mocha-travis-ci/)
